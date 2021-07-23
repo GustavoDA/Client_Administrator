@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{8F90BE19-6561-4EE5-BAA8-A5AEA3E80882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteAdminWeb", "src\ClienteAdminWeb\ClienteAdminWeb.csproj", "{C89CF0B9-C564-4A21-985E-8FC0D96B1318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C89CF0B9-C564-4A21-985E-8FC0D96B1318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89CF0B9-C564-4A21-985E-8FC0D96B1318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89CF0B9-C564-4A21-985E-8FC0D96B1318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89CF0B9-C564-4A21-985E-8FC0D96B1318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C89CF0B9-C564-4A21-985E-8FC0D96B1318} = {8F90BE19-6561-4EE5-BAA8-A5AEA3E80882}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B3BF50-40D5-446D-B733-83F695CE0129}
+	EndGlobalSection
+EndGlobal
